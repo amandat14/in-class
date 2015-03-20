@@ -1,0 +1,15 @@
+/*
+Theme Name: Simplest Theme Ever
+Author: Amanda Tomlinson;
+Author URI: http://amandatomlinson.com
+Version: 0.1
+Description: Wordpress theme example
+License: GPLv3
+
+Any other comments can go here
+*/
+
+body{
+	background-color: #999999;
+	font-family: sans-serif;
+}
